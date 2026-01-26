@@ -2,6 +2,7 @@ parallel-jobs = 1
 
 [Google_Photos]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 arch = "arm64-v8a"
-version = "latest"
+version = "auto"
 included-patches = "'Enable DCIM folders backup control'"
