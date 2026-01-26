@@ -1,6 +1,6 @@
 parallel-jobs = 1
 
-[Google Photos]
+[Google_Photos]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 arch = "arm64-v8a"
 version = "latest"
