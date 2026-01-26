@@ -1,7 +1,7 @@
 {
     "apps": [
         {
-            "id": "com.google.android.apps.photos",
+            "id": "app.revanced.android.photos",
             "url": "https://github.com/LutherNikolaevich/builder/",
             "author": "Czeux",
             "name": "CZXPhotos",
