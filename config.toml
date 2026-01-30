@@ -3,6 +3,7 @@ parallel-jobs = 1
 [GPhts]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+app-name = "Google Photos"
 arch = "arm64-v8a"
 version = "auto"
 included-patches = "'Enable DCIM folders backup control'"
@@ -10,48 +11,56 @@ included-patches = "'Enable DCIM folders backup control'"
 [Mssngr]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
 uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
+app-name = "Facebook Messenger"
 arch = "arm64-v8a"
 version = "auto"
 
 [Msc]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+app-name = "YouTube Music"
 arch = "arm64-v8a"
 version = "auto"
 
 [YTbe]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+app-name = "YouTube"
 arch = "arm64-v8a"
 version = "auto"
 
 [Fcbk]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 uptodown-dlurl = "https://facebook.en.uptodown.com/android"
+app-name = "Facebook"
 arch = "arm64-v8a"
 version = "auto"
 
 [Lghtrm]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
 uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
+app-name = "Adobe Lightroom"
 arch = "arm64-v8a"
 version = "auto"
 
 [PMl]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/proton-technologies-ag/protonmail-encrypted-email/"
 uptodown-dlurl = "https://protonmail.en.uptodown.com/android"
+app-name = "Proton Mail"
 arch = "arm64-v8a"
 version = "auto"
 
 [PVPN]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/proton-technologies-ag/protonvpn-secure-and-free-vpn/"
 uptodown-dlurl = "https://protonvpn.en.uptodown.com/android"
+app-name = "Proton VPN"
 arch = "arm64-v8a"
 version = "auto"
 
 [Sptfy]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+app-name = "Spotify"
 arch = "arm64-v8a"
 included-patches = "'Custom theme' 'Change lyrics provider'"
 version = "auto"
@@ -59,6 +68,7 @@ version = "auto"
 [TkTk]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok/"
 uptodown-dlurl = "https://tik-tok.en.uptodown.com/android"
+app-name = "TikTok"
 arch = "arm64-v8a"
 included-patches = "'SIM spoof'"
 version = "auto"
