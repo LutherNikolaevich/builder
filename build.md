@@ -1,5 +1,8 @@
+Facebook: 490.0.0.63.82  
+Facebook-Messenger: 545.0.0.27.62  
 Google-Photos: 7.61.0.860908034  
 Proton-Mail: 4.15.0  
+Spotify: 9.1.20.277  
 TikTok: 36.5.4  
 YouTube: 20.14.43  
 YouTube-Music: 8.10.52  
