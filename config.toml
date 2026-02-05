@@ -6,6 +6,7 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 app-name = "Google Photos"
 arch = "arm64-v8a"
 version = "auto"
+dpi = "nodpi"
 included-patches = "'Enable DCIM folders backup control'"
 
 [Facebook-Messenger]
@@ -14,6 +15,7 @@ uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 app-name = "Facebook Messenger"
 arch = "arm64-v8a"
 version = "auto"
+dpi = "nodpi"
 
 [YouTube-Music]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
@@ -21,6 +23,7 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 app-name = "YouTube Music"
 arch = "arm64-v8a"
 version = "auto"
+dpi = "nodpi"
 
 [YouTube]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
@@ -28,6 +31,7 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 app-name = "YouTube"
 arch = "arm64-v8a"
 version = "auto"
+dpi = "nodpi"
 
 [Facebook]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
@@ -35,27 +39,31 @@ uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 app-name = "Facebook"
 arch = "arm64-v8a"
 version = "auto"
+dpi = "nodpi"
 
-[Lightroom]
+[Adobe-Lightroom]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
 uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
 app-name = "Adobe Lightroom"
 arch = "arm64-v8a"
 version = "auto"
+dpi = "nodpi"
 
-[Proton-Mail]
+[ProtonMail]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/proton-technologies-ag/protonmail-encrypted-email/"
 uptodown-dlurl = "https://protonmail.en.uptodown.com/android"
 app-name = "Proton Mail"
 arch = "arm64-v8a"
 version = "auto"
+dpi = "nodpi"
 
-[Proton-VPN]
+[ProtonVPN]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/proton-technologies-ag/protonvpn-secure-and-free-vpn/"
 uptodown-dlurl = "https://protonvpn.en.uptodown.com/android"
 app-name = "Proton VPN"
 arch = "arm64-v8a"
 version = "auto"
+dpi = "nodpi"
 
 [Spotify]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
@@ -64,6 +72,7 @@ app-name = "Spotify"
 arch = "arm64-v8a"
 included-patches = "'Custom theme' 'Change lyrics provider'"
 version = "auto"
+dpi = "nodpi"
 
 [TikTok]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok/"
@@ -72,3 +81,4 @@ app-name = "TikTok"
 arch = "arm64-v8a"
 included-patches = "'SIM spoof'"
 version = "auto"
+dpi = "nodpi"
